@@ -1,0 +1,187 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "19b64aac-64bd-4c54-a99c-a0b483f909ad")
+	(paper "A4")
+	(title_block
+		(title "Quark U5 SOM")
+		(date "2025-05-08")
+		(rev "a")
+	)
+	(lib_symbols)
+	(sheet
+		(at 114.3 68.58)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "43fe20b8-56bd-4bd3-a4ae-b1d257c11488")
+		(property "Sheetname" "Memory"
+			(at 114.3 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "memory.kicad_sch"
+			(at 114.3 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "quark-u5-som"
+				(path "/19b64aac-64bd-4c54-a99c-a0b483f909ad"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 82.55)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4751a40f-b828-4360-a949-b86260c20038")
+		(property "Sheetname" "Microcontroller"
+			(at 54.61 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontroller.kicad_sch"
+			(at 54.61 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "quark-u5-som"
+				(path "/19b64aac-64bd-4c54-a99c-a0b483f909ad"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 115.57 93.98)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "796a0514-5f3a-4f96-9893-2e8206944439")
+		(property "Sheetname" "Connectors"
+			(at 115.57 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 115.57 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "quark-u5-som"
+				(path "/19b64aac-64bd-4c54-a99c-a0b483f909ad"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 72.39)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7b3a2f9f-cbe2-49c6-a01a-8ead4efa6503")
+		(property "Sheetname" "PowerSupply"
+			(at 54.61 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powersupply.kicad_sch"
+			(at 54.61 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "quark-u5-som"
+				(path "/19b64aac-64bd-4c54-a99c-a0b483f909ad"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

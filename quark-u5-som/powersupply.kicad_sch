@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d6b03378-f326-46cb-a470-5e8791bba10e")
+	(paper "A4")
+	(title_block
+		(title "Quark U5 SOM")
+		(date "2025-05-08")
+		(rev "a")
+	)
+	(lib_symbols)
+)
